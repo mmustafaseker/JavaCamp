@@ -4,3 +4,4 @@ public class Customer {
 	 int id;
 	 String customerNumber;
 }
+//SOLID L
